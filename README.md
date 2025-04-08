@@ -89,7 +89,7 @@
     <p>El sorteo se anunciará en <strong>Instagram</strong> cuando se agoten los números. ¡Síguenos y mantente al tanto!</p>
   </section>  <section>
     <h2>Preguntas frecuentes</h2>
-    <p><strong>¿Como funciona? comparame 2 tickets en adelante y estaras participando</strong><br />Sí, puedes comprar todas las que quieras. Cada entrada cuesta $2.</p>
+    <p><strong>¿Como funciona? comprame 2 tickets en adelante y estaras participando</strong><br />Sí, puedes comprar todas las que quieras. Cada entrada cuesta $2.</p>
     <p><strong>¿Cómo sé que el sorteo es real?</strong><br />Haremos el sorteo en vivo por Instagram y mostraremos todos los números participantes.</p>
     <p><strong>¿Cuándo recibiré mi número?</strong><br />Una vez verificado tu pago, te lo enviaremos por mensaje.</p>
   </section>  <div class="footer">
