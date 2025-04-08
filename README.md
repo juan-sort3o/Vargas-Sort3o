@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sorteo2xMil</title>
+  <title>Sort3o2xMil</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -64,13 +64,13 @@
   <header>
     <h1>Sorteo2xMil</h1>
     <p>
-      ¡Participa por <strong>$1000</strong> con solo <strong>$2</strong>! Gana dinero fácil, rápido y seguro.
+      ¡Cada uno participa por <strong>$500</strong> con solo <strong>$2</strong>! Gana dinero fácil, rápido y seguro.
     </p>
   </header>  <section>
     <h2>¿Cómo participar?</h2>
     <ol>
       <li>Realiza tu pago por Zelle o Pago Móvil.</li>
-      <li>Envía tu comprobante junto a tu nombre por DM a <strong><a href="https://instagram.com/juanvargas26_" target="_blank">@juanvargas26_</a></strong> o por WhatsApp.</li>
+      <li>Envía tu comprobante a <strong><a href="https://instagram.com/juanvargas26_" target="_blank">@juanvargas26_</a></strong> o por WhatsApp.</li>
       <li>Recibe tu número de participación.</li>
     </ol>
   </section>  <section>
@@ -86,10 +86,10 @@
     </ul>
   </section>  <section>
     <h2>¿Cuándo es el sorteo?</h2>
-    <p>El sorteo se anunciará en <strong>Instagram</strong> cuando se agoten los números. ¡Síguenos y mantente atento!</p>
+    <p>El sorteo se anunciará en <strong>Instagram</strong> cuando se agoten los números. ¡Síguenos y mantente al tanto!</p>
   </section>  <section>
     <h2>Preguntas frecuentes</h2>
-    <p><strong>¿Puedo comprar más de una entrada?</strong><br />Sí, puedes comprar todas las que quieras. Cada entrada cuesta $2.</p>
+    <p><strong>¿Como funciona? comparame 2 tickets en adelante y estaras participando</strong><br />Sí, puedes comprar todas las que quieras. Cada entrada cuesta $2.</p>
     <p><strong>¿Cómo sé que el sorteo es real?</strong><br />Haremos el sorteo en vivo por Instagram y mostraremos todos los números participantes.</p>
     <p><strong>¿Cuándo recibiré mi número?</strong><br />Una vez verificado tu pago, te lo enviaremos por mensaje.</p>
   </section>  <div class="footer">
